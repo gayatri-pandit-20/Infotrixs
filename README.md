@@ -1,4 +1,3 @@
-# infotrixs
 # Infotrixs
 Task 1 commands
 ### 1. Install apache server on Ubuntu
